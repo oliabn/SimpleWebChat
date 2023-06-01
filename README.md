@@ -1,3 +1,7 @@
+# Chat
+![image](https://github.com/oliabn/SimpleWebChat/assets/5529216/82b469cd-ac4d-4c5f-89ea-55ef558b3553)
+
+## Django Channels documentation
 Channels documentation: https://channels.readthedocs.io/en/stable/index.html  
 
 Channels tutorial: https://channels.readthedocs.io/en/latest/tutorial/index.html
